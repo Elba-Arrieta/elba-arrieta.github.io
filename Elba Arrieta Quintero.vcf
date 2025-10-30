@@ -2,8 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 N:Arrieta;Elba;;;
 FN:Elba Arrieta
+ORG:UNIVERSIDAD DE LOS ANDES
+TITLE:Profesor Asistente en la Universidad de Los Andes\, FACES. Catedra de Administración Gerencia y Capital Humano.
 TEL;TYPE=CELL:+58 414 0791035
 EMAIL;TYPE=WORK:elba.arrieta@gmail.com
+ADR;TYPE=WORK:;;;Mérida;Mérida;;Venezuela
+URL:https://www.linkedin.com/in/elba-arrieta-b3801472/
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhE
  PERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh
  4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCADIAMgDA
