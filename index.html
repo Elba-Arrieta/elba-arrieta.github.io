@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Tarjetas de contacto</title>
-  <meta name="description" content="Descarga tarjetas de contacto (vCard) de Elba Arrieta" />
+  <title>Tarjeta de contacto</title>
+  <meta name="description" content="Descarga la vCard de Elba Arrieta Quintero" />
   <link rel="icon" href="data:," />
   <style>
     body { font-family: system-ui, sans-serif; margin: 2rem; line-height: 1.5; }
@@ -17,25 +17,19 @@
   </style>
 </head>
 <body>
-  <h1>Tarjetas de contacto</h1>
-  <p>Descarga el contacto que necesites:</p>
+  <h1>Tarjeta de contacto</h1>
+  <p>Descarga la vCard:</p>
 
   <div class="grid">
-    <!-- Cambia los nombres de archivo por los tuyos -->
-    <a class="btn" href="Contacto_Profesional.vcf" download>Contacto – Profesional</a>
-    <a class="btn" href="Contacto_Personal.vcf" download>Contacto – Personal</a>
+    <!-- El archivo .vcf debe estar en la raíz y llamarse EXACTAMENTE "Elba Arrieta Quintero.vcf" -->
+    <a class="btn" href="Elba%20Arrieta%20Quintero.vcf" download>Elba Arrieta Quintero</a>
   </div>
 
   <p class="small" style="margin-top:1rem;">
-    Asegúrate de que los archivos <code>.vcf</code> estén <strong>en la raíz</strong> del repositorio
-    <code>elba-arrieta.github.io</code>, junto a este <code>index.html</code>.
-  </p>
-
-  <hr style="margin:2rem 0" />
-
-  <p class="small">
-    ¿Tus VCF están en el repo <code>Contact_card</code>? También puedes ir a
-    <a href="/Contact_card/">/Contact_card/</a>.
+    Si prefieres evitar espacios en el nombre del archivo, renómbralo a
+    <code>Elba_Arrieta_Quintero.vcf</code> y cambia el enlace a
+    <code>href="Elba_Arrieta_Quintero.vcf"</code>.
   </p>
 </body>
 </html>
+
